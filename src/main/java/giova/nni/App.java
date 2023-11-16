@@ -11,7 +11,7 @@ public class App {
         int nbLancers = 5;
         Random generateur = new Random();
 
-        boolean gagne = false;
+        boolean gagne = true;
         int compteursSimulations = 0;
     
         while (gagne) {
@@ -36,4 +36,3 @@ public class App {
     }
 }
 }
-    
